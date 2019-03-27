@@ -1,0 +1,11 @@
+.nav, .logo-container {
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+}
+.nav-logo{
+	margin-right: 10px;
+}
+.wrapper{
+	margin: 0 20px;
+}
